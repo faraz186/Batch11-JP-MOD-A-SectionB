@@ -23,6 +23,6 @@
                                                              
 	<p>Hello, Students welcome to first class of <i><b> web and mobile app development </b></i></p>
 
-</body>
+</body>                   
 
 </html>
