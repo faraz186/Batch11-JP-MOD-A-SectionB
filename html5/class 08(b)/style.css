@@ -1,4 +1,4 @@
-/* .box {
+.box {
   color: red;
   background-color: antiquewhite;
 }
@@ -10,7 +10,7 @@ span {
 h1,
 h3 {
   background-color: burlywood;
-} */
+}
 
 /* * {
   color: green;
