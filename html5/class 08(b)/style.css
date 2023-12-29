@@ -12,13 +12,13 @@ h3 {
   background-color: burlywood;
 }
 
-/* * {
+* {
   color: green;
-} */
+}
 
-/* ul > li {
+ul > li {
   color: blue;
-} */
+}
 
 h1 ~ p {
   color: red;
