@@ -14,29 +14,25 @@ h1{
 
             /* hexa VALUES */
 
-/* p{
+p{
     color: white;
     background-color: rgba(255, 99, 71, 0.25);
-} */
-
-
+}
 
 /* Chapter no 12 (Text) */
 
 
-/* #heading{
+#heading{
     font-family: 'Kanit', sans-serif;
-font-family: 'Merriweather', serif;
+    font-family: 'Merriweather', serif;
     text-transform: capitalize;
 
-} */
+}
 
-/* p{ */
-    /* font-size: 200%;
-    font-weight:600; */
-
-    
-/* } */
+p{ 
+    font-size: 200%;
+    font-weight:600;   
+}
 
 a{
     text-decoration: none;
