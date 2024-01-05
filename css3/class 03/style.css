@@ -34,15 +34,15 @@ p span{
   color: red;
 }
 
-/* .container {
+.container {
   text-align: justify;
-} */
+}
 
-/* .heading {
+.heading {
   text-shadow: 2px 2px 4px grey;
-} */
+}
 
-/* a:link {
+a:link {
   color: red;
 }
 
@@ -61,7 +61,7 @@ a:active {
 
 input:focus {
   background-color: yellow;
-} */
+}
 
 /* img {
   width: 100%;
