@@ -19,20 +19,20 @@ p {
   line-height: 50px;
 }
 
-/* a {
+a {
   text-decoration: overline;
   color: black;
-} */
+}
 
-/* p { */
-/* word-spacing: 30px; */
-/* } */
-/*  */
-/* { */
-/* text-indent: 90px; */
-/* font-size: 60px; */
-/* color: red;
-} */
+p { 
+  word-spacing: 30px;
+}
+
+p span{
+  text-indent: 90px;
+  font-size: 60px;
+  color: red;
+}
 
 /* .container {
   text-align: justify;
