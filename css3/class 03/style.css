@@ -3,21 +3,21 @@
   padding: 0;
 }
 
-/* @font-face {
+@font-face {
   font-family: faraz;
   src: url("fonts/Poppins-Medium.ttf");
 }
 
 .container {
   font-family: faraz;
-} */
+}
 
-/* p {
-  font-weight: 900; */
-/* color: #1e6a73; */
-/* font-size: 25em; */
-/* line-height: 50px; */
-/* } */
+p {
+  font-weight: 900;
+  color: #1e6a73;
+  font-size: 25em;
+  line-height: 50px;
+}
 
 /* a {
   text-decoration: overline;
