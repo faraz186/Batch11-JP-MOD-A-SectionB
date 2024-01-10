@@ -9,7 +9,7 @@ li:last-child {
 }
 
 li:first-child {
-    color: red;
+    color: red;   
 }
 
 li:nth-child(3) {   
