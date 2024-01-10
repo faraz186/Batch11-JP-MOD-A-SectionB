@@ -4,14 +4,13 @@
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-/* li:last-child {
+li:last-child {
   color: red;
 }
 
-
 li:first-child {
     color: red;
-  } */
+  }
 
 /* li:nth-child(3) {
   color: red;
