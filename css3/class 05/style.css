@@ -1,0 +1,62 @@
+@import url(home.css);
+@import url(about.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+
+body {
+  background-color: rgb(177, 227, 131);
+  height: 200vh;
+}
+
+/* .black {
+  background-color: rgb(69, 68, 68);
+  width: 400px;
+  height: 250px;
+  margin: 15px;
+  display: inline-block;
+}
+
+.white {
+  background-color: white;
+  width: 400px;
+  height: 250px;
+  margin: 15px;
+  display: inline-block;
+}
+
+img {
+  position: fixed;
+  top: 60%;
+  left: 10%;
+  z-index: 1;
+} */
+
+/* .black {
+  background-color: rgb(69, 68, 68);
+  width: 400px;
+  height: 250px;
+  margin: 15px;
+  display: inline-block;
+  float: left;
+}
+
+.white {
+  background-color: white;
+  width: 400px;
+  height: 250px;
+  margin: 15px;
+  display: inline-block;
+  float: right;
+}
+
+p {
+  clear: both;
+} */
+
+h1 {
+  color: red;
+}
