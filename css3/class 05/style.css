@@ -35,7 +35,7 @@ img {
   z-index: 1;
 }
 
-/* .black {
+.black {
   background-color: rgb(69, 68, 68);
   width: 400px;
   height: 250px;
@@ -55,7 +55,7 @@ img {
 
 p {
   clear: both;
-} */
+}
 
 h1 {
   color: red;
