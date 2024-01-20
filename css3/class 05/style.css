@@ -12,7 +12,7 @@ body {
   height: 200vh;
 }
 
-/* .black {
+.black {
   background-color: rgb(69, 68, 68);
   width: 400px;
   height: 250px;
@@ -33,7 +33,7 @@ img {
   top: 60%;
   left: 10%;
   z-index: 1;
-} */
+}
 
 /* .black {
   background-color: rgb(69, 68, 68);
