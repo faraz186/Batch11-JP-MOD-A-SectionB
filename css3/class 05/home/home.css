@@ -14,7 +14,7 @@ body {
   height: 500px;
   border: 2px solid red;
   background-image: linear-gradient(
-      297deg,
+      297deg,  
       rgba(0, 0, 0, 0.5) 50%,
       rgba(255, 255, 255, 0.8) 50%
     ),
