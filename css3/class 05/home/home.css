@@ -1,4 +1,4 @@
-/* body {
+body {
   background: rgb(131, 58, 180);
   background: linear-gradient(
     90deg,
@@ -6,7 +6,7 @@
     rgba(245, 92, 92, 1) 50%,
     rgba(252, 176, 69, 1) 100%
   );
-} */
+}
 
 .box {
   width: 900px;
