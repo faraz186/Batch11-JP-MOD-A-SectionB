@@ -30,7 +30,7 @@ body {
 
 img {
   position: fixed;
-  top: 60%;
+  top: 60%;  
   left: 10%;
   z-index: 1;
 }
