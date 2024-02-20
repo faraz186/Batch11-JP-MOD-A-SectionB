@@ -1,3 +1,5 @@
+// There are 3 (three) ways to get output in browsers
+
 alert(100);
 
 document.write(50);
