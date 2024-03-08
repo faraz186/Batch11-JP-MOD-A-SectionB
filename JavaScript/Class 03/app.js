@@ -24,13 +24,13 @@ for (var i = 1; i <= 20; i++) {
   console.log("hello world");
 }
 
-// var number = +prompt("Enter a number to generate table");
+var number = +prompt("Enter a number to generate table");
 
-// var range = +prompt("Enter range");
+var range = +prompt("Enter range");
 
-// for (var i = 1; i <= range; i++) {
-//   document.write(number + "x" + i + "=" + number * i + "<br>");
-// }
+for (var i = 1; i <= range; i++) {
+  document.write(number + "x" + i + "=" + number * i + "<br>");
+}
 
 // KarAChi
 
