@@ -48,17 +48,17 @@ for (var i = 0; i < cityArr.length; i++) {
   }
 }
 
-// if (flag === "true") {
-//   console.log("found it..");
-// } else {
-//   console.log("not found..");
-// }
+if (flag === "true") {
+  console.log("found it..");
+} else {
+  console.log("not found..");
+}
 
-// if (faraz === "true") {
-//   console.log("found it..");
-// } else {
-//   console.log("not found..");
-// }
+if (faraz === "true") {
+  console.log("found it..");
+} else {
+  console.log("not found..");
+}
 
 // var str = "Muhammad Faraz";
 
