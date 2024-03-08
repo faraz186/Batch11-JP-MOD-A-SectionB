@@ -34,19 +34,19 @@ for (var i = 1; i <= range; i++) {
 
 // KarAChi
 
-// var searchCity = prompt("Enter where do you live??");
+var searchCity = prompt("Enter where do you live??");
 
-// var updateInput = searchCity.toLowerCase();
+var updateInput = searchCity.toLowerCase();
 
-// var cityArr = ["karachi", "lahore", "islamabad", "multan"];
+var cityArr = ["karachi", "lahore", "islamabad", "multan"];
 
-// var flag = "false";
+var flag = "false";
 
-// for (var i = 0; i < cityArr.length; i++) {
-//   if (updateInput === cityArr[i]) {
-//     flag = "true";
-//   }
-// }
+for (var i = 0; i < cityArr.length; i++) {
+  if (updateInput === cityArr[i]) {
+    flag = "true";
+  }
+}
 
 // if (flag === "true") {
 //   console.log("found it..");
