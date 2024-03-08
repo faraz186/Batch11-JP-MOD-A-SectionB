@@ -69,7 +69,7 @@ var arr = [
   [true, "abc"],
 ];
 
-// var arr = ["karachi", ["lahore", "islamabad"], "multan"];
+var arr = ["karachi", ["lahore", "islamabad"], "multan"];
 
 for (var i = 0; i < arr.length; i++) {
   for (var j = 0; j < arr[1].length; j++) {
@@ -77,7 +77,7 @@ for (var i = 0; i < arr.length; i++) {
   }
 }
 
-// console.log(arr[1][2][0]);
+console.log(arr[1][2][0]);
 
 // 2) WHILE LOOP
 
