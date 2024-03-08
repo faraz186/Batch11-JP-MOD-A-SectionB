@@ -82,5 +82,3 @@ console.log(arr[1][2][0]);
 // 2) WHILE LOOP
 
 // 3) DO WHILE LOOP
-
-// please silence of namaz
