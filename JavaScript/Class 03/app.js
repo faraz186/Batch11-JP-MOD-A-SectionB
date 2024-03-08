@@ -14,6 +14,11 @@ console.log("hello world");
 
 // 1) FOR LOOP
 
+// 2) WHILE LOOP
+
+// 3) DO WHILE LOOP
+
+
 // basic syntax of for loop
 
 // for(initialization;condition;increment/decrement){
@@ -78,7 +83,3 @@ for (var i = 0; i < arr.length; i++) {
 }
 
 console.log(arr[1][2][0]);
-
-// 2) WHILE LOOP
-
-// 3) DO WHILE LOOP
