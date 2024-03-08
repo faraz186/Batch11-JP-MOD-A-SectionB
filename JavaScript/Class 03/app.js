@@ -18,9 +18,9 @@ console.log("hello world");
 
 // }
 
-// for (var i = 1; i <= 20; i++) {
-//   console.log("hello world");
-// }
+for (var i = 1; i <= 20; i++) {
+  console.log("hello world");
+}
 
 // var number = +prompt("Enter a number to generate table");
 
