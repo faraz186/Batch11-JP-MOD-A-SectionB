@@ -60,9 +60,9 @@ if (faraz === "true") {
   console.log("not found..");
 }
 
-// var str = "Muhammad Faraz";
+var str = "Muhammad Faraz";
 
-// console.log(str.slice(0, 7));
+console.log(str.slice(0, 7));
 
 var arr = [
   ["faraz", 100],
