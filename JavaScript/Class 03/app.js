@@ -11,7 +11,7 @@ console.log("hello world");
 console.log("hello world");
 
 // loops are of three types in JS
-
+   
 // 1) FOR LOOP
 
 // 2) WHILE LOOP
