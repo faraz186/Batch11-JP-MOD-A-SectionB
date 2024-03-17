@@ -3,7 +3,7 @@ var userInput = prompt("Enter where do you live??");
 var firstChar = userInput.slice(0, 1).toUpperCase();
 
 var reaminAlphab = userInput.slice(1).toLowerCase();
-
+   
 var combineInput = firstChar + reaminAlphab;   
 
 var cityArr = ["Karachi", "Lahore", "Multan", "Peshawar"];   
