@@ -6,7 +6,7 @@ var reaminAlphab = userInput.slice(1).toLowerCase();
 
 var combineInput = firstChar + reaminAlphab;   
 
-var cityArr = ["Karachi", "Lahore", "Multan", "Peshawar"];
+var cityArr = ["Karachi", "Lahore", "Multan", "Peshawar"];   
    
 var flag = "0";
   
