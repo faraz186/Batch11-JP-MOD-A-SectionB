@@ -1,4 +1,4 @@
-var userInput = prompt("Enter where do you live??");
+var userInput = prompt("Enter where do you live??");   
 
 var firstChar = userInput.slice(0, 1).toUpperCase();
 
