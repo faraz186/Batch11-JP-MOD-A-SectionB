@@ -69,7 +69,7 @@ var ReplaceText = "The Second World War";
 var RemainText = text.slice(indexNum + 13);
 
 console.log(firstText + ReplaceText + RemainText);
-
+     
 // Replace & ReplaceAll method
 
 console.log(text.replace(/British India/g, "The Second World war"));
