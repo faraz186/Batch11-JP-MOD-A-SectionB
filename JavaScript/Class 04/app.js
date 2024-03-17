@@ -17,7 +17,7 @@ for (var i = 0; i < cityArr.length; i++) {
 }
 
 if (flag === "1") {
-  console.log("city has been found...");   
+  console.log("city has been found...");       
 } else {
   console.log("city not found..");
 }
