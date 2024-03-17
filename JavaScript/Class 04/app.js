@@ -9,7 +9,7 @@ var combineInput = firstChar + reaminAlphab;
 var cityArr = ["Karachi", "Lahore", "Multan", "Peshawar"];
    
 var flag = "0";
-
+  
 for (var i = 0; i < cityArr.length; i++) {
   if (combineInput === cityArr[i]) {
     flag = "1";
