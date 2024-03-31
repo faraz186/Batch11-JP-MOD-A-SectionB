@@ -62,10 +62,10 @@ while (i < 0) {
 
 // var i = 0;
 
-/*do {
+do {
   console.log(i);
   i++;
-} while (i < 2);*/
+} while (i < 2);
 
 // for (var i = 0; i < 0; i++) {
 //   console.log(i);
