@@ -2,7 +2,7 @@ var date = new Date();
 
 console.log(date.getTime());
 
-console.log(date.getDay());
+console.log(date.getDay());  
 
 var daysArr = ["sunday", "mon", "tues", "wed", "thurs", "fri", "sat"];
 
