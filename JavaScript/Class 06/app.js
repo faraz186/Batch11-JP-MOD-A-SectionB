@@ -8,19 +8,19 @@ var daysArr = ["sunday", "mon", "tues", "wed", "thurs", "fri", "sat"];
 
 console.log(daysArr[date.getDay()]);
 
-// var newYearDate = new Date("1 january 2025").getTime();
+var newYearDate = new Date("1 january 2025").getTime();
 
-// var currentMilli = new Date().getTime();
+var currentMilli = new Date().getTime();
 
-// var diff = newYearDate - currentMilli;
+var diff = newYearDate - currentMilli;
 
-// var months = diff / (1000 * 60 * 60 * 24);
+var months = diff / (1000 * 60 * 60 * 24);
 
-// console.log("months===>", months);
+console.log("months===>", months);
 
-// console.log(currentMilli);
+console.log(currentMilli);
 
-// var date = new Date();
+var date = new Date();
 
 // date.setFullYear(2006);
 // date.setMonth(0);
