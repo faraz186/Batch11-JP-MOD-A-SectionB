@@ -85,9 +85,9 @@ function faraz() {
 
 // 3) FAT ARROW FUNCTION / ARROW FUNCTION
 
-// faraz();
-// faraz();
-// faraz();
-// faraz();
-// faraz();
-// faraz();
+faraz();
+faraz();
+faraz();
+faraz();
+faraz();
+faraz();
