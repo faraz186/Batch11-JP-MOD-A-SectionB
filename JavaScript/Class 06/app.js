@@ -1,12 +1,12 @@
-// var date = new Date();
+var date = new Date();
 
-// console.log(date.getTime());
+console.log(date.getTime());
 
-// console.log(date.getDay());
+console.log(date.getDay());
 
-// var daysArr = ["sunday", "mon", "tues", "wed", "thurs", "fri", "sat"];
+var daysArr = ["sunday", "mon", "tues", "wed", "thurs", "fri", "sat"];
 
-// console.log(daysArr[date.getDay()]);
+console.log(daysArr[date.getDay()]);
 
 // var newYearDate = new Date("1 january 2025").getTime();
 
