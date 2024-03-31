@@ -52,11 +52,11 @@ switch (age) {
 
 // while loop
 
-// var i = 0;
-// while (i < 0) {
-//   console.log(i);
-//   i++;
-// }
+var i = 0;
+while (i < 0) {
+  console.log(i);
+  i++;
+}
 
 // do-while loop
 
