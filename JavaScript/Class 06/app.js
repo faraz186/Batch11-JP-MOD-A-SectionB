@@ -73,9 +73,6 @@ do {
 
 // Functions
 
-function faraz() {
-  console.log("hello world");
-}
 
 // There are 3 types of Functions in JS
 
@@ -84,6 +81,9 @@ function faraz() {
 // 2) ANONOMOUS FUNCTION
 
 // 3) FAT ARROW FUNCTION / ARROW FUNCTION
+function faraz() {
+  console.log("hello world");
+}
 
 faraz();
 faraz();
