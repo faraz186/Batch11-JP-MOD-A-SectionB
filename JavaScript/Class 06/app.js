@@ -30,25 +30,25 @@ console.log(date);
 
 // Switch Statement
 
-// var age = +prompt("Enter your age");
+var age = +prompt("Enter your age");
 
-// switch (age) {
-//   case 16:
-//     alert("not eligible");
-//     break;
-//   case 17:
-//     alert("not eligible");
-//     break;
-//   case 18:
-//     alert("eligible..");
-//     break;
-//   case 19:
-//     alert("eligible..");
-//     break;
+switch (age) {
+  case 16:
+    alert("not eligible");
+    break;
+  case 17:
+    alert("not eligible");
+    break;
+  case 18:
+    alert("eligible..");
+    break;
+  case 19:
+    alert("eligible..");
+    break;
 
-//   default:
-//     alert("not found..");
-// }
+  default:
+    alert("not found..");
+}
 
 // while loop
 
