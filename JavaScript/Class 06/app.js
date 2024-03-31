@@ -22,11 +22,11 @@ console.log(currentMilli);
 
 var date = new Date();
 
-// date.setFullYear(2006);
-// date.setMonth(0);
-// date.setDate(25);
+date.setFullYear(2006);
+date.setMonth(0);
+date.setDate(25);
 
-// console.log(date);
+console.log(date);
 
 // Switch Statement
 
