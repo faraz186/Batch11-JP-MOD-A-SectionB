@@ -73,7 +73,6 @@ do {
 
 // Functions
 
-
 // There are 3 types of Functions in JS
 
 // 1) FUNCTION DECALRATION
@@ -81,6 +80,7 @@ do {
 // 2) ANONOMOUS FUNCTION
 
 // 3) FAT ARROW FUNCTION / ARROW FUNCTION
+
 function faraz() {
   console.log("hello world");
 }
