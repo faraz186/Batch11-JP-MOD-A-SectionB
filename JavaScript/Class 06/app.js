@@ -60,7 +60,7 @@ while (i < 0) {
 
 // do-while loop
 
-// var i = 0;
+var i = 0;
 
 do {
   console.log(i);
