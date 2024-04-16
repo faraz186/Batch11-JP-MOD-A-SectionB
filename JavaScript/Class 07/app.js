@@ -89,8 +89,6 @@ console.log(calc(15, "$", 5));
 console.log(calc(6, "*", 10));
 
 
-
-
 // local vs global variables
 
 var a = 20; // global variable
@@ -105,8 +103,30 @@ console.log(a);
 
 
 
+function calc(num1, opr, num2) {
+    if (opr === "+") {
+        return num1 + num2;
+    }
+    else if (opr === "-") {
+        return num1 - num2;
+
+    }
+    else if (opr === "*") {
+        return num1 * num2;
+
+    }
+    else if (opr === "/") {
+        return num1 / num2;
+    }
+    else {
+        return "invalid operator"
+    }
 
 
+}
 
+console.log(calc(2, "+", 6));
 
+console.log(calc(10, "-", 5));
 
+console.log(calc(12, "$", 3));
