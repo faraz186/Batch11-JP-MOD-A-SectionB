@@ -49,20 +49,20 @@ function set() {
 
 set();
 
-// function submit() {
-//   var dropdown = document.getElementById("dropdown");
-//   console.log(dropdown.value);
-// }
+function submit() {
+  var dropdown = document.getElementById("dropdown");
+  console.log(dropdown.value);
+}
 
-// function submit() {
-//   var radio = document.getElementsByName("gender");
+function submit() {
+  var radio = document.getElementsByName("gender");
 
-//   for (var i = 0; i <= radio.length; i++) {
-//     if (radio[i].checked) {
-//       console.log(radio[i].value);
-//     }
-//   }
-// }
+  for (var i = 0; i <= radio.length; i++) {
+    if (radio[i].checked) {
+      console.log(radio[i].value);
+    }
+  }
+}
 
 // var para = document.getElementById("para");
 
