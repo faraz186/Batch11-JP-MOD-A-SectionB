@@ -64,13 +64,13 @@ function submit() {
   }
 }
 
-// var para = document.getElementById("para");
+var para = document.getElementById("para");
 
-// para.innerHTML = "<h1>Hello World</h1>";
+para.innerHTML = "<h1>Hello World</h1>";
 
-// para.innerHTML = "<h1>Hello World</h1>";
+para.innerHTML = "<h1>Hello World</h1>";
 
-// console.log(para);
+console.log(para);
 
 function expandPara() {
   var completeText =
