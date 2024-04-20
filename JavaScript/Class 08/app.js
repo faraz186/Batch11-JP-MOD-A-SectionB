@@ -41,13 +41,13 @@ function submit() {
   }
 }
 
-// function set() {
-//   var input = document.getElementById("email");
+function set() {
+  var input = document.getElementById("email");
 
-//   input.value = "faraz";
-// }
+  input.value = "faraz";
+}
 
-// set();
+set();
 
 // function submit() {
 //   var dropdown = document.getElementById("dropdown");
