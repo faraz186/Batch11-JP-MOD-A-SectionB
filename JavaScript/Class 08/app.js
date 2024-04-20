@@ -2,13 +2,13 @@ function greet() {
   alert("on click event call...");
 }
 
-// var anchorTag = document.getElementById("link");
+var anchorTag = document.getElementById("link");
 
-// anchorTag.href = "https://www.google.com";
+anchorTag.href = "https://www.google.com";
 
-// anchorTag.style.color = "green";
+anchorTag.style.color = "green";
 
-// console.log(anchorTag);
+console.log(anchorTag);
 
 // function over(e) {
 //   console.log(e);
