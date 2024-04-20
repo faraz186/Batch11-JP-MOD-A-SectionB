@@ -29,17 +29,17 @@ function out(e) {
     "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg";
 }
 
-// function submit() {
-//   var email = document.getElementById("email");
-//   var password = document.getElementById("password");
+function submit() {
+  var email = document.getElementById("email");
+  var password = document.getElementById("password");
 
-//   if (email.value && password.value) {
-//     console.log(email.value);
-//     console.log(password.value);
-//   } else {
-//     alert("please required empty field...");
-//   }
-// }
+  if (email.value && password.value) {
+    console.log(email.value);
+    console.log(password.value);
+  } else {
+    alert("please required empty field...");
+  }
+}
 
 // function set() {
 //   var input = document.getElementById("email");
