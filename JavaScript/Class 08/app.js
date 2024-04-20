@@ -20,14 +20,14 @@ function over(e) {
   //   "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&height=900&width=1600&fit=bounds";
 }
 
-// function out(e) {
-//   console.log(e);
-//   e.src =
-//     "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg";
-//   //   var image = document.getElementById("img");
-//   image.src =
-//     "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg";
-// }
+function out(e) {
+  console.log(e);
+  e.src =
+    "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg";
+  //   var image = document.getElementById("img");
+  image.src =
+    "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mikebirdy-170811.jpg&fm=jpg";
+}
 
 // function submit() {
 //   var email = document.getElementById("email");
