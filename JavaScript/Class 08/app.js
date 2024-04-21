@@ -1,7 +1,7 @@
 function greet() {      
   alert("on click event call...");
 } 
-
+ 
 var anchorTag = document.getElementById("link");
 
 anchorTag.href = "https://www.google.com";
