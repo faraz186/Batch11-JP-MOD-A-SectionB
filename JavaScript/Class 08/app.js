@@ -1,4 +1,4 @@
-function greet() {    
+function greet() {     
   alert("on click event call...");
 }
 
