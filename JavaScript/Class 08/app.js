@@ -83,7 +83,8 @@ function expandPara() {
     para.innerHTML = completeText;
     link.innerHTML = "Read less";
   } else {
-    para.innerHTML = "lorem sa+56fa 5fsa2f";
+    para.innerHTML = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias totam, incidunt molestiae eum saepe, nemo consectetur corporis tempora, omnis at delectus sequi aut.";
+
     link.innerHTML = "Read more";
   }
 }
