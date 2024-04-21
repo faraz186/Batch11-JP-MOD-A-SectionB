@@ -1,6 +1,6 @@
 function greet() {      
   alert("on click event call...");
-}
+} 
 
 var anchorTag = document.getElementById("link");
 
