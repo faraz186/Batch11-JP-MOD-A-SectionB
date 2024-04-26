@@ -1,8 +1,8 @@
-// function over(e) {
-//   //   console.log(e);
-//   e.src =
-//     "https://img.freepik.com/free-photo/cyberpunk-urban-scenery-with-car_23-2150712268.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1713916800&semt=ais";
-// }
+function over(e) {
+  //   console.log(e);
+  e.src =
+    "https://img.freepik.com/free-photo/cyberpunk-urban-scenery-with-car_23-2150712268.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1713916800&semt=ais";
+}
 
 // function out(e) {
 //   //   console.log(e);
