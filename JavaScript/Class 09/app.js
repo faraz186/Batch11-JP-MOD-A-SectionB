@@ -57,13 +57,13 @@ function stop() {
 
 // // setTimeout()
 
-// function timer() {
-//   console.log("function call...");
-// }
+function timer() {
+  console.log("function call...");
+}
 
-// setTimeout(timer, 1000);
+setTimeout(timer, 1000);
 
-// console.log(document.childNodes[1].childNodes[1].childNodes);
+console.log(document.childNodes[1].childNodes[1].childNodes);
 
 var main = document.getElementById("main");
 
