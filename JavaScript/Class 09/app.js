@@ -13,7 +13,7 @@ function out(e) {
 function changeImage(Eid, ImgSrc) {
   var image = document.getElementById(Eid);
   console.log(image);
-  image.src = ImgSrc;
+  image.src = ImgSrc;  
 }
 
 function makeInvisible() {
