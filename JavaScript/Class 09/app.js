@@ -21,15 +21,15 @@ function makeInvisible() {
   image.className += " hidden";
 }
 
-// var paras = document.getElementsByTagName("p");
+var paras = document.getElementsByTagName("p");
 
-// console.log(paras);
+console.log(paras);
 
-// var main = document.getElementById("main");
+var main = document.getElementById("main");
 
-// var paras = main.getElementsByTagName("p");
+var paras = main.getElementsByTagName("p");
 
-// console.log(paras);
+console.log(paras);
 
 // for (var i = 0; i < paras.length; i++) {
 //   console.log(paras[i]);
