@@ -16,10 +16,10 @@ function changeImage(Eid, ImgSrc) {
   image.src = ImgSrc;
 }
 
-// function makeInvisible() {
-//   var image = document.getElementById("img");
-//   image.className += " hidden";
-// }
+function makeInvisible() {
+  var image = document.getElementById("img");
+  image.className += " hidden";
+}
 
 // var paras = document.getElementsByTagName("p");
 
