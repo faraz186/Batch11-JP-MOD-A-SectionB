@@ -31,9 +31,9 @@ var paras = main.getElementsByTagName("p");
 
 console.log(paras);
 
-// for (var i = 0; i < paras.length; i++) {
-//   console.log(paras[i]);
-// }
+for (var i = 0; i < paras.length; i++) {
+  console.log(paras[i]);
+}
 
 // var paras = document.getElementsByClassName("para");
 
