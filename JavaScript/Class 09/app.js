@@ -10,11 +10,11 @@ function out(e) {
     "https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg";
 }
 
-// function changeImage(Eid, ImgSrc) {
-//   var image = document.getElementById(Eid);
-//   console.log(image);
-//   image.src = ImgSrc;
-// }
+function changeImage(Eid, ImgSrc) {
+  var image = document.getElementById(Eid);
+  console.log(image);
+  image.src = ImgSrc;
+}
 
 // function makeInvisible() {
 //   var image = document.getElementById("img");
