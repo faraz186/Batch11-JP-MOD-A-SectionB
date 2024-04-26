@@ -35,25 +35,25 @@ for (var i = 0; i < paras.length; i++) {
   console.log(paras[i]);
 }
 
-// var paras = document.getElementsByClassName("para");
+var paras1 = document.getElementsByClassName("para");
 
-// console.log(paras);
+console.log(paras1);
 
 // setInterval()
 
-// var interval;
+var interval;
 
-// function timer() {
-//   console.log("function call...");
-// }
+function timer() {
+  console.log("function call...");
+}
 
-// interval = setInterval(function timer() {
-//   console.log("function call...");
-// }, 1000);
+interval = setInterval(function timer() {
+  console.log("function call...");
+}, 1000);
 
-// function stop() {
-//   clearInterval(interval);
-// }
+function stop() {
+  clearInterval(interval);
+}
 
 // // setTimeout()
 
