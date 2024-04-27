@@ -27,13 +27,13 @@ var h1Element = document.createElement("h1");
 
 var h1Text = document.createTextNode("Hello DOM");
 
-// h1Element.appendChild(h1Text);
+h1Element.appendChild(h1Text);
 
-// console.log(h1Element);
+console.log(h1Element);
 
-// // h1Element.style.backgroundColor = "lightgrey";
+// h1Element.style.backgroundColor = "lightgrey";
 
-// h1Element.setAttribute("class", "heading");
+h1Element.setAttribute("class", "heading");
 
 // var anchorElement = document.createElement("a");
 
