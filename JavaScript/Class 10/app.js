@@ -41,17 +41,17 @@ var anchorText = document.createTextNode("Google");
 
 anchorElement.appendChild(anchorText);
 
-// console.log(anchorElement);
+console.log(anchorElement);
 
-// anchorElement.setAttribute("href", "https://www.google.com");
+anchorElement.setAttribute("href", "https://www.google.com");
 
-// var div = document.getElementById("container");
+var div = document.getElementById("container");
 
-// div.appendChild(h1Element);
+div.appendChild(h1Element);
 
-// div.appendChild(anchorElement);
+div.appendChild(anchorElement);
 
-// var imageElement = document.createElement("img");
+var imageElement = document.createElement("img");
 
 // imageElement.setAttribute(
 //   "src",
