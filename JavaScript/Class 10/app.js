@@ -58,9 +58,9 @@ imageElement.setAttribute(
   "https://cdn.pixabay.com/photo/2023/03/23/07/56/ai-generated-7871392_960_720.jpg"
 );
 
-// imageElement.setAttribute("width", "120px");
+imageElement.setAttribute("width", "120px");
 
-// var div = document.getElementById("container");
+var div = document.getElementById("container");
 
-// div.appendChild(imageElement);
-// console.log(imageElement);
+div.appendChild(imageElement);
+console.log(imageElement);
