@@ -17,15 +17,15 @@ var heading = document.getElementById("heading");
 
 console.log(heading.attributes[0].nodeValue);
 
-// heading.setAttribute("class", "heading");
+heading.setAttribute("class", "heading");
 
-// console.log(heading.getAttribute("class"));
+console.log(heading.getAttribute("class"));
 
-// anchor.setAttribute("href", "https://www.google.com");
+anchor.setAttribute("href", "https://www.google.com");
 
-// var h1Element = document.createElement("h1");
+var h1Element = document.createElement("h1");
 
-// var h1Text = document.createTextNode("Hello DOM");
+var h1Text = document.createTextNode("Hello DOM");
 
 // h1Element.appendChild(h1Text);
 
