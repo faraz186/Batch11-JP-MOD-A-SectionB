@@ -1,10 +1,10 @@
-// console.log(document.childNodes[1].childNodes[2].childNodes[1]);
+console.log(document.childNodes[1].childNodes[2].childNodes[1]);
 
-// var paras = document.getElementsByTagName("h1");
+var paras = document.getElementsByTagName("h1");
 
-// for (var i = 0; i < paras.length; i++) {
-//   console.log(paras[i]);
-// }
+for (var i = 0; i < paras.length; i++) {
+  console.log(paras[i]);
+}
 
 // var div = document.getElementById("container");
 
