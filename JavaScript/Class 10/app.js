@@ -53,10 +53,10 @@ div.appendChild(anchorElement);
 
 var imageElement = document.createElement("img");
 
-// imageElement.setAttribute(
-//   "src",
-//   "https://cdn.pixabay.com/photo/2023/03/23/07/56/ai-generated-7871392_960_720.jpg"
-// );
+imageElement.setAttribute(
+  "src",
+  "https://cdn.pixabay.com/photo/2023/03/23/07/56/ai-generated-7871392_960_720.jpg"
+);
 
 // imageElement.setAttribute("width", "120px");
 
