@@ -6,16 +6,16 @@ for (var i = 0; i < paras.length; i++) {
   console.log(paras[i]);
 }
 
-// var div = document.getElementById("container");
+var div = document.getElementById("container");
 
-// var res = div.childNodes[1].nextSibling;
-// console.log(res);
+var res = div.childNodes[1].nextSibling;
+console.log(res);
 
-// var anchor = document.getElementById("link");
+var anchor = document.getElementById("link");
 
-// var heading = document.getElementById("heading");
+var heading = document.getElementById("heading");
 
-// console.log(heading.attributes[0].nodeValue);
+console.log(heading.attributes[0].nodeValue);
 
 // heading.setAttribute("class", "heading");
 
