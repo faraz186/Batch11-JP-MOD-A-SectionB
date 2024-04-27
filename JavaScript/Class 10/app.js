@@ -35,11 +35,11 @@ console.log(h1Element);
 
 h1Element.setAttribute("class", "heading");
 
-// var anchorElement = document.createElement("a");
+var anchorElement = document.createElement("a");
 
-// var anchorText = document.createTextNode("Google");
+var anchorText = document.createTextNode("Google");
 
-// anchorElement.appendChild(anchorText);
+anchorElement.appendChild(anchorText);
 
 // console.log(anchorElement);
 
