@@ -1,5 +1,5 @@
  var obj = {
-  name: "faraz",
+  name: "faraz",  
    age: 23,
   email: "faraz@gmail.com",
   courses: ["js", "reactjs", "nodejs"],
