@@ -1,8 +1,8 @@
  var obj = {
-//   name: "faraz",
-//   age: 23,
-//   email: "faraz@gmail.com",
-//   courses: ["js", "reactjs", "nodejs"],
+  name: "faraz",
+   age: 23,
+  email: "faraz@gmail.com",
+  courses: ["js", "reactjs", "nodejs"],
 //   status: false,
 //   education: {
 //     CGPA: "3.5",
