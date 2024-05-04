@@ -1,4 +1,4 @@
-// var obj = {
+ var obj = {
 //   name: "faraz",
 //   age: 23,
 //   email: "faraz@gmail.com",
