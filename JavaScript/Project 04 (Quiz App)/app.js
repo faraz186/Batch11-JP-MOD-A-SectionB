@@ -15,7 +15,7 @@
 
 obj.courses.shift();
 
-// delete obj.courses;
+ delete obj.courses;
 
 var questions = [
   {
