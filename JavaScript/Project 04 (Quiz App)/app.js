@@ -150,7 +150,7 @@ function nextQuestion() {
     sec = 59;
   }
 }
-
+   
 function target() {
   var btn = document.getElementById("btn");
 
