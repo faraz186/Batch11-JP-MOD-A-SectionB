@@ -17,7 +17,7 @@ obj.courses.shift();
 
  delete obj.courses;
 
-var questions = [
+var questions = [  
   {
     question: "HTML Stands for",
     option1: "Hyper Text Markup Language",
