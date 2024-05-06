@@ -5,7 +5,7 @@
   courses: ["js", "reactjs", "nodejs"],
    status: false,
   education: {
-    CGPA: "3.5",
+   CGPA: "3.5",
   },
   getName: function () {
     console.log("method obj call..");
