@@ -11,7 +11,7 @@
     console.log("method obj call..");
  }, };
 
- console.log(obj.getName());
+ console.log(obj.getName());  
 
 obj.courses.shift();
 
