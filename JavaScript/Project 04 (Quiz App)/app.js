@@ -3,7 +3,7 @@
   age: 23,
   email: "faraz@gmail.com",
   courses: ["js", "reactjs", "nodejs"],
-   status: false,
+  status: false,
   education: {
    CGPA: "3.5",
   },
