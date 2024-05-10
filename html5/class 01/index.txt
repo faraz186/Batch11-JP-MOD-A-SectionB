@@ -1,6 +1,6 @@
 <html>    
        
-<head></head>
+<head></head>  
     
 <body>
 	<h1>Welcome to first Class of Module A</h1>
