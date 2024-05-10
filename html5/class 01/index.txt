@@ -3,7 +3,7 @@
 <head></head>  
      
 <body>
-	<h1>Welcome to first Class of Module A</h1>
+	<h1>Welcome to first Class of Module A</h1>  
       
 	<h2>Welcome to first Class of Module A</h2> 
 
