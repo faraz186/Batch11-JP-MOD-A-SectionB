@@ -10,7 +10,7 @@ var firebaseConfig = {
 // Initialize Firebase
 
 var app = firebase.initializeApp(firebaseConfig);  
-
+  
 // Initialize Firebase Authentication and get a reference to the service
 var auth = firebase.auth();
 
