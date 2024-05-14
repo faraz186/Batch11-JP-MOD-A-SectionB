@@ -16,7 +16,7 @@ var auth = firebase.auth();
 
 function changeIcon() {
   var PasswordInput = document.getElementById("password");
-  var img = document.getElementById("img");
+  var img = document.getElementById("img");  
 
   if (PasswordInput.type === "password") {
     PasswordInput.type = "text";
