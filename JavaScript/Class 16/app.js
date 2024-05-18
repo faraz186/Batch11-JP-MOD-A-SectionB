@@ -6,7 +6,7 @@ var firebaseConfig = {
   storageBucket: "********************",
   messagingSenderId: "**********",
   appId: "******************************************",
-};  
+};    
 
 // Initialize Firebase
 var app = firebase.initializeApp(firebaseConfig);
