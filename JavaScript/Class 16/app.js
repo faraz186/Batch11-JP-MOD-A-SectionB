@@ -21,7 +21,7 @@ function getVal() {
   var name = document.getElementById("name");
   var rollno = document.getElementById("rollno");
 
-  var obj = {
+  var obj = {  
     name: name.value,
     rollno: rollno.value,
   };
