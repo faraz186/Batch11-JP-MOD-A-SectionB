@@ -21,7 +21,7 @@ console.log("hello world");
 
 // basic syntax of for loop
 
-// for(initialization;condition;increment/decrement){
+// for(initialization;condition;increment/decrement){  
 
 // }
 
